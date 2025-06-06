@@ -1,3 +1,4 @@
-# LoginSystem
-Login system i made as a personal project.
-november 2020
+# Python Login System
+
+## Project Description
+Simple custom made login system
